@@ -1,4 +1,4 @@
-const Task = require("../models/task.model");
+const Task = require("../models/task.model.js");
 
 let cacheData = null;
 let cacheTime = null;
